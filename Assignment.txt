@@ -1,0 +1,222 @@
+1)class A21
+{
+	    static int Mobile_cost=120000;
+		static String Mobile_Model_name="Samsung S24 Pro";
+		static String Mobile_colour="Blue";
+	
+	
+	
+public static void main(String[] args) 
+
+	{
+
+	System.out.println("The Mobile_cost is: "+Mobile_cost);
+	System.out.println("The Mobile_Model_name is: "+Mobile_Model_name);
+	System.out.println("The Mobile_colour is: "+Mobile_colour);
+		
+	}
+	
+}
+The Mobile cost is: 24000
+The Mobile Model Name is: Samsung S23
+The Mobile Colour is: Blue
+
+2)
+class A22
+{
+	static int Car_cost=3000000;
+	static String Car_Model_name="BMW";
+	static String Car_Type="Diesel";
+
+	public static void main(String[] args) 
+	{
+		
+
+		System.out.println("The Car cost is: "+Car_cost);
+		System.out.println("The Car Model Name is: "+Car_Model_name);
+		System.out.println("The Car Type is: "+Car_Type);
+	}
+}
+The Car cost is: 3000000
+The Car Model Name is: BMW
+The Car Type is: Diesel
+
+3)
+class A23
+{
+	static String Course_name="Java Full Stack";
+	static String University_name="JSPIDER";
+	static short Exam_Cost=2000;
+
+	public static void main(String[] args) 
+	{
+		
+		System.out.println("The Course Name is: "+Course_name);
+		System.out.println("The University Name is: "+University_name);
+		System.out.println("The Exam Cost is: "+Exam_Cost);
+	}
+}
+
+
+The Course Name is: Java Full Stack
+The University Name is: JSPIDER
+The Exam Cost is: 2000
+
+4)class A24
+{
+
+	static String Laptop_name="HP 12TH GENERATION";
+	static int Laptop_Cost=60000;
+	static String Laptop_Brand="HP";
+
+	public static void main(String[] args) 
+	{
+		
+		
+		
+		System.out.println("The Laptop_name is: "+Laptop_name);
+		System.out.println("The Laptop_Cost is: "+Laptop_Cost);
+		System.out.println("The Laptop_Brand is: "+Laptop_Brand);
+	}
+}
+
+The Laptop_name is: HP 12TH GENERATION
+The Laptop_Cost is: 60000
+The Laptop_Brand is: HP
+
+5)class A25
+{
+	    static String School_name="Vivekananda School";
+		static String School_Grade="A+";
+		static int School_Strength=1000;
+	
+	
+	
+public static void main(String[] args) 
+
+	{
+
+	System.out.println("The School name is: "+School_name);
+	System.out.println("The School Grade is: "+School_Grade);
+	System.out.println("The School Strength is: "+School_Strength);
+		
+	}
+	
+}
+	
+The Laptop name is: Vivekananda School
+The School Grade is: A+
+The School Strength is: 1000
+
+6)class A26
+{
+	static String Home_name="Shivaji House";
+	static int Home_cost=5000000;
+	static String Home_colour="RED & BLUE";
+
+	public static void main(String[] args) 
+	{
+		
+		
+		
+		System.out.println("The Home name is: "+Home_name);
+		System.out.println("The Home cost is: "+Home_cost);
+		System.out.println("The Home colour is: "+Home_colour);
+	}
+}
+
+The Home name is: Shivaji House
+The Home cost is: 5000000
+The Home colour is: RED & BLUE
+
+7)class A27
+{
+
+	static int Tv_cost=60000;
+	static String Tv_brand="Sony";
+	static String Tv_type="LCD";
+
+	public static void main(String[] args) 
+	{
+		
+		
+		
+
+		System.out.println("The Tv_cost is: "+Tv_cost);
+		System.out.println("The Tv_brand is: "+Tv_brand);
+		System.out.println("The Tv_type is: "+Tv_type);
+	}
+}
+
+The Tv_cost is: 60000
+The Tv_brand is: Sony
+The Tv_type is: LCD
+
+8)class A28
+{
+	static byte Emp_id=101;
+	static int Emp_sal=40000;
+	static String Emp_grade="A";
+
+	public static void main(String[] args) 
+	{
+		
+		System.out.println("The Emp_id is: "+Emp_id);
+		System.out.println("The Emp_sal is: "+Emp_sal);
+		System.out.println("The Emp_grade is: "+Emp_grade);
+	}
+}
+
+The Emp_id is: 101
+The Emp_sal is: 40000
+The Emp_grade is: A
+
+9)class A29
+{
+
+	static int Bike_cost=100000;
+	static String Bike_brand="ktm";
+	static String Bike_colour="Green";
+
+	
+	
+	public static void main(String[] args) 
+	{	
+		
+		System.out.println("The Bike_cost is: "+Bike_cost);
+		System.out.println("The Bike_brand is: "+Bike_brand);
+		System.out.println("The Bike_colour is: "+Bike_colour);
+	}
+}
+
+The Bike_cost is: 100000
+The Bike_brand is: ktm
+The Bike_colour is: Green
+
+
+10)class A30
+{
+
+	static String Cloth_colour="Blue";
+	static short Cloth_cost=800;
+	static String Cloth_size="XL";
+
+	public static void main(String[] args) 
+	{
+		
+		
+		
+
+		System.out.println("The Cloth_colour is: "+Cloth_colour);
+		System.out.println("The Cloth_cost is: "+Cloth_cost);
+		System.out.println("The Cloth_size is: "+Cloth_size);
+	}
+}
+
+
+The Cloth_colour is: Blue
+The Cloth_cost is: 800
+The Cloth_size is: XL
+
+
+
